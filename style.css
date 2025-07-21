@@ -30,5 +30,17 @@ body {
 form .form-control {
     height: 50px;
     position: relative;
-    
+    margin-bottom: 16px;
+}
+
+.form-control input {
+    height: 100%;
+    width: 100%;
+    background: #006eff56;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 1rem;
+    padding: 0 20px;
 }

@@ -23,7 +23,12 @@ body {
     font-size: 2rem;
 }
 
-.form-control {
-    color: #fff;
-    font-size: 1rem;
+.form-wrapper form {
+    margin: 25px 0 65px;
+}
+
+form .form-control {
+    height: 50px;
+    position: relative;
+    
 }
